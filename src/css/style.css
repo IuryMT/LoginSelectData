@@ -1,0 +1,36 @@
+.input.active {
+    display: block;
+}
+
+input.false {
+    display: none;
+}
+
+.select {
+    min-width: 250px;
+}
+
+.bottom {
+    width: 500px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+}
+
+.ant-form-item-control {
+    display: flex;
+    justify-content: center;
+    margin-inline-start: 0;
+    min-width: 200px;
+    margin-top: 20px;
+}
+
+.css-dev-only-do-not-override-sk7ap8 {
+    max-width: 250px;
+}
+
+a{
+    color: whitesmoke;
+}
