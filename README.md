@@ -13,10 +13,6 @@ Feito com ReactJS e a biblioteca React UI ANTD.
 ```bash
 npm install
 ```
-- Dentro do projeto, instale a biblioteca React UI ANTD.
-```bash
-npm install antd
-```
 
 ## Em uso
 
