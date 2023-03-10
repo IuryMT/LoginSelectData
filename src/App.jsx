@@ -1,4 +1,4 @@
-import { InputFilter } from "./assets/multinput"
+import { InputFilter } from "./assets/InputFilter"
 import './App.css'
 
 function App() {
